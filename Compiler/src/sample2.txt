@@ -1,0 +1,9 @@
+let var : float = 15.0;
+let var1 : float = 16.9;
+
+for(let id : float = 0.0; id < 10.0; id = id + 1.0){
+let sum : float = var * 10.0;
+var = sum + var;
+print var;
+
+}
