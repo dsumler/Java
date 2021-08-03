@@ -1,0 +1,11 @@
+IN ORDER TO EXECUTE THE PROGRAM TESTS TYPE INTO YOUR LINUX TERMINAL:
+
+javac Main.java
+java Main
+
+IN ORDER TO EXECUTE THE CONCURRENT TESTS TYPE INTO YOUR LINUX TERMINAL:
+
+javac ConcurrentTesting.java
+java ConcurrentTesting
+
+

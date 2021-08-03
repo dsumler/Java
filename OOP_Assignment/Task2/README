@@ -1,0 +1,8 @@
+TO RUN THIS TASK EXECUTE THE FOLLOW COMMANDS IN THE LINUX TERMINAL:
+javac MainMenu.java
+java MainMenu
+
+The program will now be running. Main Menu will appear as a CLI and everything after that will appear as a JOptionPane GUI. This was done in order to reduce a bug in which JOptionPane appears behind the current window.
+Please note that this may still happen. Please close your window if you do not see a GUI popup.
+Tests can be found in the 'Tests' folder. Please note that I did not manage to get them to run from the command line, even after multiple attempts.
+

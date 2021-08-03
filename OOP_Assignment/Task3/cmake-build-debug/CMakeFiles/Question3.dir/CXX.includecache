@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dsuml/OneDrive/Desktop/gitlaboop/oop-assignment/Question3/Arithmetic.h
+iostream
+-
+
+C:/Users/dsuml/OneDrive/Desktop/gitlaboop/oop-assignment/Question3/Constant.h
+
+C:/Users/dsuml/OneDrive/Desktop/gitlaboop/oop-assignment/Question3/main.cpp
+iostream
+-
+Arithmetic.h
+C:/Users/dsuml/OneDrive/Desktop/gitlaboop/oop-assignment/Question3/Arithmetic.h
+Constant.h
+C:/Users/dsuml/OneDrive/Desktop/gitlaboop/oop-assignment/Question3/Constant.h
+

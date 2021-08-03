@@ -1,0 +1,6 @@
+"C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\dsuml\OneDrive\Desktop\gitlaboop\oop-assignment\Question3
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: ops
+CMake Error: Cannot determine link language for target "ops".
+-- Generating done
+-- Build files have been written to: C:/Users/dsuml/OneDrive/Desktop/gitlaboop/oop-assignment/Question3/cmake-build-debug
